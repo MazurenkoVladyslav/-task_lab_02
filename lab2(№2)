@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Мазуренко Владислав</title>
+    <style>
+.season-icon {
+            margin-right: 5px;
+        }
+.indent {
+            margin-left: 20px; 
+        }
+body{
+    background-image:url(photo_5305320548538113499_m.jpg) ;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: 100% 140%;
+}
+    </style>
+
+</head>
+<body>
+    <p>
+        <strong>
+            <i>&gt;&gt;Зима</i>
+        </strong>
+        <ul>
+            <li>&#10052; <span class="season-icon"></span> Грудень</li>
+            <li>&#10052; <span class="season-icon"></span> Січень</li>
+            <li>&#10052; <span class="season-icon"></span> Лютий</li>
+        </ul>
+    
+    </p>
+
+    <p>
+        <strong>
+            <i>&gt;&gt;Весна</i>
+        </strong>
+        <ul>
+            <li>&#127800; <span class="season-icon"></span> Березень</li>
+            <li>&#127800; <span class="season-icon"></span> Квітень</li>
+            <li>&#127800; <span class="season-icon"></span> Травень</li>
+        </ul>
+    </p>
+
+    <p>
+        <strong>
+            <i>&gt;&gt;Літо</i>
+        </strong>
+            <ul>
+                <li>&#9728; <span class="season-icon"></span> Червень</li>
+                <li>&#9728; <span class="season-icon"></span> Липень</li>
+                <li>&#9728; <span class="season-icon"></span> Серпень</li>
+            </ul>
+ 
+
+    <p>
+        <strong>
+            <i>&gt;&gt;Осінь</i>
+        </strong>
+        <ul>
+            <li>&#127810; <span class="season-icon"></span> Вересень</li>
+            <li>&#127810; <span class="season-icon"></span> Жовтень</li>
+            <li>&#127810; <span class="season-icon"></span> Листопад</li> 
+        </ul>
+    </p>
+</body>
+</html>
