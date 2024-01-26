@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk-UA">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #29ddf5; /* світлий фон у всього списку */
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            background-color: #2414af; /* більш темний фон в кожного елемента списку */
+            margin-bottom: 10px; /* відступ між елементами списку */
+            padding: 10px; /* відступ всередині кожного елемента списку */
+        }
+
+        li span {
+            background-color: #9faa09; /* найтемніший фон тільки під текстом */
+            color: #fcf804; /* кольор тексту */
+            padding: 5px; /* відступ для тексту */
+        }
+    </style>
+    <title>Список фруктів</title>
+</head>
+<body>
+    <ul>
+        <li><span>Яблуко</span></li>
+        <li><span>Груша</span></li>
+        <li><span>Банан</span></li>
+        <li><span>Апельсин</span></li>
+    </ul>
+</body>
+</html>
