@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My To-Do List</title>
+    <style>
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+        body{
+            background-image:url(photo_5305320548538113527_x.jpg) ;
+            background-repeat: no-repeat;
+            background-position: fixed;
+            background-size: 100% 160%;
+        }
+    </style>
+</head>
+<body>
+    <h1>My To-Do List</h1>
+    <ul>
+        <li><input type="checkbox" id="task1"> <label for="task1">Зробити роботу по дому</label></li>
+        <li><input type="checkbox" id="task2"> <label for="task2">Подумати що зробити поїсти</label></li>
+        <li><input type="checkbox" id="task3"> <label for="task3">Піти в магазин</label></li>
+        <li><input type="checkbox" id="task4"> <label for="task4">Приготувати їсти</label></li>
+        <li><input type="checkbox" id="task5"> <label for="task5">Зібрати речі в зал</label></li>
+        <li><input type="checkbox" id="task6"> <label for="task6">Піти у зал</label></li>
+        <li><input type="checkbox" id="task7"> <label for="task7">Викинути сміття</label></li>
+        <li><input type="checkbox" id="task8"> <label for="task8">Помитися і лягти спати</label></li>
+ 
+    </ul>
+</body>
+</html>
